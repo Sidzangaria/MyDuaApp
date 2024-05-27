@@ -1,0 +1,14 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url("PDMS_Saleem.ttf");
+ }
+ 
+ .arabicLarge {
+    font-family: myFirstFont;
+    font-size: xx-large;
+ }
+
+ .arabicSal {
+    font-family: myFirstFont;
+    font-size: medium;
+ }
